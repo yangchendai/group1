@@ -29,23 +29,6 @@
 
 ## 安裝與運行
 
-1. 克隆此專案到本地：
-
-   ```bash
-   (https://github.com/yangchendai/group18.git)
-   cd 最近紅什麼
-## 安裝：
-
-bash
-複製程式碼
-npm install
-啟動開發伺服器：
-
-bash
-複製程式碼
-npm start
-開啟瀏覽器並訪問 ht。
-
 ## 分工，貢獻度
 楊竣安: 查資料 ，設計程式，製作ppt，報告，60%
 陳奕嘉: 查資料 ，製作ppt，設計程式，40%
