@@ -51,5 +51,3 @@ npm start
 陳奕嘉: 查資料 ，製作ppt，設計程式，40%
 戴侑玲: 報告，5%
 
-github page
-https://yangchendai.github.io/group18/
